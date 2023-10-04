@@ -1,0 +1,47 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.navbar1{
+    position: fixed;
+    height: 10%;
+    width: 100%;
+    top: 0;
+    background-color: #89379c;
+}
+.navbar-container1{
+    position: fixed;
+    height: 10%;
+    width: 100%;
+    top: 0;
+    background-color: #89379c;
+}
+
+.text
+{
+    font-size: 50px;
+    color: #03103d;
+    margin-block: -10px;
+}
+.home
+{
+
+    float:left;
+    padding: 0.5%;
+}
+#navbar1 {
+    display: flex;
+    justify-content: end;
+    font-size: medium;
+    margin-top: 2%;
+
+  }
+  #navbar li1 {
+    padding: 0 20px;
+    margin-top: 20px;
+    color: #03103d;
+    font-size: 60px;
+    font-weight: bold;
+    margin-right: 5%;
+  }
+ 
